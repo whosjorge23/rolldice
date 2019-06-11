@@ -55,7 +55,7 @@ footer {
 
 }
 
-@media (max-width: 800px){
+@media (max-width: 750px){
   .btn {
     width: 140px; height: 50px;
     margin-top: 15px;
